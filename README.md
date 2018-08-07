@@ -1,3 +1,10 @@
+# Update
+I uploaded the files for my iPad Air 2 as extra_recipe works much better than yalu102. A few months ago, tihmstar and other contributors released "Double H3lix" which works very stable. I highly recommend using that!  
+URL :https://doubleh3lix.tihmstar.net/
+
+---------
+##### Old content
+
 # Compiled 10.2 Jailbreaks 
 As I recently lost a VERY good compiled working version of extra_recipe for my iPad Air 2 which seems to be very unsupported in jailbreaking, I decided to create this repository for myself and maybe other people. I couln't find the the compiled versions. After may tries, I got my jb back. 
 
