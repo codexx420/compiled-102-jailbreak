@@ -1,4 +1,9 @@
-# Update
+# Update 2
+** IMPORTANT **    
+Use totally-not.spyware.lol 
+Most reliable solution. 
+
+## Update
 I uploaded the files for my iPad Air 2 as extra_recipe works much better than yalu102. A few months ago, tihmstar and other contributors released "Double H3lix" which works very stable. I highly recommend using that!  
 URL :https://doubleh3lix.tihmstar.net/
 
