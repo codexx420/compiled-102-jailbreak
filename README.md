@@ -1,6 +1,6 @@
 # Update 2
 ** IMPORTANT **    
-Use totally-not.spyware.lol 
+Use https://totally-not.spyware.lol 
 Most reliable solution. 
 
 ## Update
